@@ -1,6 +1,8 @@
 <b>DESCRIPTION :</b>
 
-This is a client-server based brain monitoring application in Java to monitor and record performance metrics, facial expressions and practice mental commands as per the data sent from the server to the client at regular time intervals
+This is a client-server based brain monitoring application in Java to monitor and record performance metrics, facial expressions and practice mental commands as per the data sent from the server to the client at regular time intervals.
+
+Team size : 6
 
 ### Use the below steps to run the application:
 
